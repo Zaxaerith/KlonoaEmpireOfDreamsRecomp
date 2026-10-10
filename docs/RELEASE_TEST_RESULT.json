@@ -1,0 +1,58 @@
+{
+  "version": "v0.1.0-preview",
+  "status": "Local packaged candidate; manual final-ZIP Play acceptance pending",
+  "baseline_commit": "cc45c46",
+  "first_playable_baseline": "bf475e6",
+  "zip": "release-stage/KlonoaEmpireOfDreamsRecomp-windows-x64-v0.1.0-preview.zip",
+  "zip_bytes": 11704045,
+  "zip_sha256": "0c54f8c0b839e083b23e38f9ae261ee69132744808209f84a5a57e13cfc71331",
+  "package_files": 45,
+  "release_exe": "release-stage/KlonoaEmpireOfDreamsRecomp-windows-x64-v0.1.0-preview/KlonoaEmpireOfDreamsRecomp.exe",
+  "release_exe_sha256": "f163518d6243ff57710c694b86fc502f33b9652a6402a89886bb7bd944d2755b",
+  "pe_machine": "AMD64",
+  "dependencies": "All five PE binaries x64; imports require only packaged DLLs and Windows system/UCRT libraries",
+  "package_audit": "PASS explicit 45-file allowlist; manifest hashes and excluded private inputs/paths",
+  "six_dependency_snapshots": "PASS unchanged pinned archives",
+  "original_saves_unchanged": 6,
+  "eeprom_size": 512,
+  "eeprom_relative_path": "saves/klonoa_eod_usa.sav",
+  "tests": {
+    "first-launch": {
+      "exit": 0
+    },
+    "cached-launcher": {
+      "exit": 0
+    },
+    "launcher-model": {
+      "valid_wrong_missing_inputs": "PASS",
+      "settings_path_persistence": "PASS"
+    },
+    "wrong-rom": {
+      "exit": 1
+    },
+    "wrong-bios": {
+      "exit": 1
+    },
+    "help-without-side-effects": {
+      "exit": 0,
+      "cache_unchanged": true
+    },
+    "bounded-title-smoke": {
+      "exit": 0,
+      "ppu_frames": 900,
+      "game_inputs": 0,
+      "eeprom_bytes": 512,
+      "copied_eeprom_unchanged": true,
+      "fallback_failed": 0
+    },
+    "play-handoff": {
+      "game_window_created_once": true,
+      "observed_ppu_frames": 0,
+      "status": "PENDING final ZIP manual Play; scripted mouse/focus check unreliable"
+    }
+  },
+  "retained_checks": "UI/model/invalid gates passed before player TOML correction; their implementation unchanged.",
+  "scope": "No gameplay keys, stage exploration, completion replay, traces or coverage scans. Exactly one successful 900-frame title smoke. Earlier aborted GUI handoff had zero CPU frames.",
+  "public_publication": "NOT READY: owner ZIP acceptance, compiled game/BIOS rights, original integration source-license decision and component source/attribution obligations",
+  "push_tag_release": false
+}

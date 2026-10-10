@@ -1,0 +1,9 @@
+# Public cartridge hardware configuration. No ROM/BIOS paths or player data.
+[save]
+type = "eeprom"
+size = 512
+
+[video]
+screen = "raw"
+view_width = 240
+resize_view = false

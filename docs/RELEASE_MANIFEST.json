@@ -1,0 +1,222 @@
+[
+  {
+    "file": "assets/fonts/LatoLatin-Bold.ttf",
+    "bytes": 146156,
+    "sha256": "74dc638cf436cce77a0217a2a55ce7906a4cc9e4c595c6f1dcd9dd858078c1b6"
+  },
+  {
+    "file": "assets/fonts/LatoLatin-Regular.ttf",
+    "bytes": 148540,
+    "sha256": "d785334ac4e7810f571def986bbad41161f68ac385db8813f798bf04d71478e1"
+  },
+  {
+    "file": "assets/fonts/NotoSansSymbols2-Regular.ttf",
+    "bytes": 671568,
+    "sha256": "c4a0a80f0041ce4be81e2478faad22776d23edb98ae3f0d19bd37044820ecf9d"
+  },
+  {
+    "file": "assets/fonts/OpenMoji-black-glyf.ttf",
+    "bytes": 1434276,
+    "sha256": "1c64be3236fd7a400fb701af4c47210b736b69057ab6fb71182dd6892bde13f7"
+  },
+  {
+    "file": "assets/img/brand_mark.tga",
+    "bytes": 704364,
+    "sha256": "78e89e17b2e716916387306597fa696ae90a45d53acdb8bf4e72d88041b02fce"
+  },
+  {
+    "file": "assets/img/flags.png",
+    "bytes": 220794,
+    "sha256": "811d6bf008ad5a995d96ec3f57d83627b2f2d7f556771e2e49279828b6086138"
+  },
+  {
+    "file": "assets/img/pad_gba.tga",
+    "bytes": 267564,
+    "sha256": "37056f83bd2e8608ec3fc4dcfefb4838d2536c34902df85c5fda6358412506e0"
+  },
+  {
+    "file": "assets/img/verdict_bad.tga",
+    "bytes": 40018,
+    "sha256": "97c062254d8054f1f8839ab7606a3603fbc93346c531d794ddb023771c31b438"
+  },
+  {
+    "file": "assets/img/verdict_none.tga",
+    "bytes": 40018,
+    "sha256": "46be6d566bed45cce7ca091a4f986505c9ddd1603215262ffb169b11743cc4c7"
+  },
+  {
+    "file": "assets/img/verdict_ok.tga",
+    "bytes": 40018,
+    "sha256": "b554abf3ac9c4d5d7b842a52e587301a3b634bc5ac210dce1425cd39e5195e82"
+  },
+  {
+    "file": "assets/img/verdict_warn.tga",
+    "bytes": 40018,
+    "sha256": "deb368d9e487b42228625be666cb63926198bcd7651780bd7c5f63c6b99b33a8"
+  },
+  {
+    "file": "KlonoaEmpireOfDreamsRecomp.exe",
+    "bytes": 21375013,
+    "sha256": "f163518d6243ff57710c694b86fc502f33b9652a6402a89886bb7bd944d2755b"
+  },
+  {
+    "file": "libgcc_s_seh-1.dll",
+    "bytes": 143872,
+    "sha256": "93e6e2bc8cbb931dfc8bbd25b94bc72178da6c37019e43f480143ec109eca607"
+  },
+  {
+    "file": "libstdc++-6.dll",
+    "bytes": 2594304,
+    "sha256": "477430aaca35c7e0515450d58d57f631b922289809b72f1f3be7ebeedf55a89a"
+  },
+  {
+    "file": "libwinpthread-1.dll",
+    "bytes": 56832,
+    "sha256": "15a9369f874b1973cfe3da007d1ebf750b188532a24b1b7a429ad7448beab96a"
+  },
+  {
+    "file": "LICENSE.md",
+    "bytes": 5683,
+    "sha256": "b20ee0848e26f98aa5c9acfd4cf097f00a1fd71e0da7de60f86c180153ad49f6"
+  },
+  {
+    "file": "licenses/ArmRecompCore.txt",
+    "bytes": 1093,
+    "sha256": "f3c52fc52e49c3d0618c115b99927ae880b2e9e9d2a08a06b949b9b4be898894"
+  },
+  {
+    "file": "licenses/Font-Notices.txt",
+    "bytes": 552,
+    "sha256": "cf51439b252dfb326f7330138e459e23873d4cb3856211633f3f3a21ab3c19a7"
+  },
+  {
+    "file": "licenses/Framework-Attribution.txt",
+    "bytes": 4208,
+    "sha256": "660fff35ae7d5b0a4bc8b22c51b03ed173715d53810e28b579bb7f4273b74aca"
+  },
+  {
+    "file": "licenses/GBARecomp.txt",
+    "bytes": 3855,
+    "sha256": "5299c743afb90ac7c82a662f3c2e1eafc9adaced7f8d89158566d66668e55f19"
+  },
+  {
+    "file": "licenses/GCC-GPL3.txt",
+    "bytes": 35821,
+    "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
+  },
+  {
+    "file": "licenses/GCC-LGPL3.txt",
+    "bytes": 7804,
+    "sha256": "319917f5ccd09878db6f67c9a77dee846055644ca49eb535628b9e020a87261e"
+  },
+  {
+    "file": "licenses/GCC-Runtime-Exception.txt",
+    "bytes": 3397,
+    "sha256": "90077ba306ee9d8ed966cab1b4abd69b6e728acf08777283cc50283cd9503fa6"
+  },
+  {
+    "file": "licenses/Image-Notices.txt",
+    "bytes": 482,
+    "sha256": "3262a19dc9c8793ca4138c00320fa1b976cf68379117ba8248228782d5cd942d"
+  },
+  {
+    "file": "licenses/ImGui.txt",
+    "bytes": 1104,
+    "sha256": "55e058cc5899e6077a819ad1005d6d1f4528f65ae100795c9692f9fa6525a8ce"
+  },
+  {
+    "file": "licenses/JRickey-MIT.txt",
+    "bytes": 1064,
+    "sha256": "655dc7eefcae760c0e4673da36f84367e5bc2cf94770389b446ae1b6f4d943e3"
+  },
+  {
+    "file": "licenses/Kirby-Integration.txt",
+    "bytes": 4788,
+    "sha256": "9a139be32d0a3a41bf6a668755685a4200a6631f575cc12055c53c185d73c8bf"
+  },
+  {
+    "file": "licenses/Lato-OFL.txt",
+    "bytes": 4407,
+    "sha256": "74ba064d03f1f1c4a952da936c3eb71866c34404916734de3cae73b34357e59e"
+  },
+  {
+    "file": "licenses/MinGW-Runtime.txt",
+    "bytes": 11158,
+    "sha256": "e7a33fd8d164abd188ee629bbe3b07912419b29192a6bbfdce29de0ad4f0e7fb"
+  },
+  {
+    "file": "licenses/MPL-2.0.txt",
+    "bytes": 17099,
+    "sha256": "cde215e5b42363eb28ca2462c4558ff4807b38f383c537624c31e44657ac58f4"
+  },
+  {
+    "file": "licenses/mpl-source/bios_hle.cpp",
+    "bytes": 23652,
+    "sha256": "4d29267520be9d2e5f74cf51d53debec144ca6603a6137553f17e4a5bdc5f9e8"
+  },
+  {
+    "file": "licenses/mpl-source/bios_hle.h",
+    "bytes": 2752,
+    "sha256": "9ce69bf7b744e54559647c6a87270552614e267209ea73d56bbe5634bd1bcaf3"
+  },
+  {
+    "file": "licenses/NotoSymbols-OFL.txt",
+    "bytes": 4383,
+    "sha256": "b118dd41337806a5d4797052c77caf3bd096aed783e5eb21b4d11154351e1ac0"
+  },
+  {
+    "file": "licenses/OpenMoji-LICENSE.txt",
+    "bytes": 20137,
+    "sha256": "5e436ff8ffbb77d8607220e9bce20c8915d860010feeb6c1ebef5a85688e9b39"
+  },
+  {
+    "file": "licenses/Rbengine.txt",
+    "bytes": 1107,
+    "sha256": "e9c7a8ec269e01c23b867c4e22cb5df0eb4cc23f5ff8979c84c4ec5b2431d8cc"
+  },
+  {
+    "file": "licenses/RecompNet.txt",
+    "bytes": 1101,
+    "sha256": "2bca198d18a130a718448fea022b2f2f9d560aa335f16e134dbc09484ccac9c5"
+  },
+  {
+    "file": "licenses/RecompUI.txt",
+    "bytes": 1093,
+    "sha256": "f3c52fc52e49c3d0618c115b99927ae880b2e9e9d2a08a06b949b9b4be898894"
+  },
+  {
+    "file": "licenses/Reference-Integration.txt",
+    "bytes": 1385,
+    "sha256": "ee5d793f2af3f88a1527d354a779dced5605b11a406b88953fd04a9507dede07"
+  },
+  {
+    "file": "licenses/SDL2.txt",
+    "bytes": 884,
+    "sha256": "97f35b302b361680ec1e891e95d2d52097bb95abff361434916d99dc1305f127"
+  },
+  {
+    "file": "licenses/TomlPlusPlus.txt",
+    "bytes": 1094,
+    "sha256": "529bc3900a9571e49db285b0df432397e70b881cc3bf48de6667ae74ff4b06d8"
+  },
+  {
+    "file": "player.toml",
+    "bytes": 172,
+    "sha256": "d21fdc2afc8ec7219106a63f205b9c06b5edd133d34aa5c11594d8856569aab9"
+  },
+  {
+    "file": "README.md",
+    "bytes": 9919,
+    "sha256": "d1a906659e1deb2833401d18b3c7c02205753d630875ec9ac0c749a7eea68c73"
+  },
+  {
+    "file": "SDL2.dll",
+    "bytes": 1785856,
+    "sha256": "d751a3e0dbf72dc1110dd3da01ccfb899e0eb2e7af5a28d422013cf7c8573073"
+  },
+  {
+    "file": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2577,
+    "sha256": "5f0dfc84eed9237ee75c4cf52972ca31d81677a98f6d5b3d9ab1d474e282db6c"
+  }
+]

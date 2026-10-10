@@ -1,0 +1,9 @@
+{
+  "gbarecomp": "e3c834d399b66f5a823c2f0f9d878b62dc05d25a",
+  "arm-recomp-core": "c626f4e53fcdca0c72d2a7d34d41663d87c7e175",
+  "recomp-net": "d3524c6fef49dcfd511d2de7df4ba5a6e7900732",
+  "rbengine": "2a03e73693acee0fb78076ea058642c931bef12e",
+  "tomlplusplus": "30172438cee64926dc41fdd9c11fb3ba5b2ba9de",
+  "source": "Local clean fixed dependency checkouts; git archive snapshots in ignored .deps. No remote downloads.",
+  "recomp-ui": "6374aae201b930c97425718249f5d39b2275ca13"
+}
